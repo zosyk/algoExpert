@@ -1,3 +1,7 @@
+
+/**
+ * O(n) time | O(1) space
+ * */
 public class Fibonacci {
     public static int getNthFib(int n) {
         if(n == 1) return 0;
